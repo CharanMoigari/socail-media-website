@@ -1,0 +1,2 @@
+Social-Media-website it is kind of web_app. where we can create Post, Adding Comments,Likes on posts, We can chat with friends .It is a social Authenticated Webiste .where we should Sign-up to create a account
+MongoDb, is a Database used for storing the Users information .Using MongoDb created users ,posts,comments.likes schema, and HTML,CSS used for Styling the webpage and Node.js is a Enivornmental platform used.
